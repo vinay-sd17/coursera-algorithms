@@ -1,4 +1,4 @@
-package com.coursera.algorithms;
+package com.coursera.algorithms.week1;
 
 //Week 1 - Union Find Example
 public class UnionFind {
